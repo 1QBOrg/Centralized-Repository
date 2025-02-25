@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Selenium_Cucumber_TestNG_Framework:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Selenium_Cucumber_TestNG_Framework_jar</output-path>
+    <root id="archive" name="Selenium_Cucumber_TestNG_Framework.jar" />
+  </artifact>
+</component>
